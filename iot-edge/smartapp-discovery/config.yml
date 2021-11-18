@@ -1,0 +1,5 @@
+name: 'SmartApp Discovery'
+packageKey: 'smartapp.discovery'
+permissions:
+  lan: {}
+  discovery: {}

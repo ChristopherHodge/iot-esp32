@@ -1,0 +1,7 @@
+[submodule "iot-stdk/stdk"]
+  path = iot-stdk/stdk
+  url = https://github.com/SmartThingsCommunity/st-device-sdk-c.git
+[submodule "iot-libs/esp-nimble-cpp"]
+	path = iot-libs/esp-nimble-cpp
+	url = https://github.com/h2zero/esp-nimble-cpp
+	branch = master
